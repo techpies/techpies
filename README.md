@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩸 𝒯𝑒𝒸𝒽𝓅𝒾𝑒𝓈 🩸  
+# 🩸 𝕲𝖍𝖔𝖘𝖙𝖎𝖊 🩸  
 ###
 
 <img src="https://raw.githubusercontent.com/techpies/techpies/main/assets/techpies-profile.jpg" />
