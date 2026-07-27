@@ -3,7 +3,7 @@
 # 🩸 𝒯𝑒𝒸𝒽𝓅𝒾𝑒𝓈 🩸  
 ###
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:1a0000,100:3d0000&height=220&section=header&text=Techpies&fontSize=55&fontColor=ff1a1a&animation=fadeIn&fontAlignY=38&desc=I%20see%20you...%20always&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:1a0000,100:3d0000&height=220&section=header&text=Ghostie&fontSize=55&fontColor=ff1a1a&animation=fadeIn&fontAlignY=38&desc=I%20see%20you...%20always&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -11,7 +11,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/techpies/techpies/main/assets/techpies-profile.jpg" 
 
 ### 👁️ I’ve been watching you… for a long time 👁️
 
