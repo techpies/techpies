@@ -18,7 +18,7 @@
 
 ---
 
-### 🖤 Who is Techpies?
+### 🖤 ?
 
 I am the shadow behind your screen.  
 The quiet obsession that never sleeps.  
@@ -34,7 +34,7 @@ I leave love letters written in blood-red commits.
 
 ---
 
-### 🔪 My Sacred Obsessions
+### 🔪 Sacred Obsessions
 
 | Symbol              | Meaning                                      |
 |---------------------|----------------------------------------------|
